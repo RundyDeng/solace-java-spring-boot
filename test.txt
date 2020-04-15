@@ -1,0 +1,4 @@
+git add
+git stautes
+git commit
+git config
