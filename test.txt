@@ -2,3 +2,10 @@ git add
 git stautes
 git commit
 git config
+++++++++++++++
+other:
+
+git add
+git stautes
+git commit
+git config
